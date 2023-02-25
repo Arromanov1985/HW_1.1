@@ -1,0 +1,15 @@
+C:\Users\roman\OneDrive\Рабочий стол\Тестировщик\С#\HW_1\HW_1\Expl4\bin\Debug\net6.0\Expl4.exe
+C:\Users\roman\OneDrive\Рабочий стол\Тестировщик\С#\HW_1\HW_1\Expl4\bin\Debug\net6.0\Expl4.deps.json
+C:\Users\roman\OneDrive\Рабочий стол\Тестировщик\С#\HW_1\HW_1\Expl4\bin\Debug\net6.0\Expl4.runtimeconfig.json
+C:\Users\roman\OneDrive\Рабочий стол\Тестировщик\С#\HW_1\HW_1\Expl4\bin\Debug\net6.0\Expl4.dll
+C:\Users\roman\OneDrive\Рабочий стол\Тестировщик\С#\HW_1\HW_1\Expl4\bin\Debug\net6.0\Expl4.pdb
+C:\Users\roman\OneDrive\Рабочий стол\Тестировщик\С#\HW_1\HW_1\Expl4\obj\Debug\net6.0\Expl4.csproj.AssemblyReference.cache
+C:\Users\roman\OneDrive\Рабочий стол\Тестировщик\С#\HW_1\HW_1\Expl4\obj\Debug\net6.0\Expl4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roman\OneDrive\Рабочий стол\Тестировщик\С#\HW_1\HW_1\Expl4\obj\Debug\net6.0\Expl4.AssemblyInfoInputs.cache
+C:\Users\roman\OneDrive\Рабочий стол\Тестировщик\С#\HW_1\HW_1\Expl4\obj\Debug\net6.0\Expl4.AssemblyInfo.cs
+C:\Users\roman\OneDrive\Рабочий стол\Тестировщик\С#\HW_1\HW_1\Expl4\obj\Debug\net6.0\Expl4.csproj.CoreCompileInputs.cache
+C:\Users\roman\OneDrive\Рабочий стол\Тестировщик\С#\HW_1\HW_1\Expl4\obj\Debug\net6.0\Expl4.dll
+C:\Users\roman\OneDrive\Рабочий стол\Тестировщик\С#\HW_1\HW_1\Expl4\obj\Debug\net6.0\refint\Expl4.dll
+C:\Users\roman\OneDrive\Рабочий стол\Тестировщик\С#\HW_1\HW_1\Expl4\obj\Debug\net6.0\Expl4.pdb
+C:\Users\roman\OneDrive\Рабочий стол\Тестировщик\С#\HW_1\HW_1\Expl4\obj\Debug\net6.0\Expl4.genruntimeconfig.cache
+C:\Users\roman\OneDrive\Рабочий стол\Тестировщик\С#\HW_1\HW_1\Expl4\obj\Debug\net6.0\ref\Expl4.dll
